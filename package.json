@@ -1,0 +1,52 @@
+{
+  "name": "hatiar",
+  "displayName": "Hatiar - Useful Laravel Extension Pack",
+  "description": "A handpicked collection of useful VS Code extension packs designed to simplify Laravel development, carefully crafted by @alnahian2003",
+  "publisher": "alnahian2003",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Other"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alnahian2003/hatiar.git"
+  },
+  "homepage": "https://github.com/alnahian2003/hatiar/blob/main/README.md",
+  "pricing": "Free",
+  "icon": "images/hatiar-logo.png",
+  "galleryBanner": {
+    "color": "#070C22",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Al Nahian",
+    "url": "https://github/alnahian2003"
+  },
+  "extensionPack": [
+    "bmewburn.vscode-intelephense-client",
+    "kokororin.vscode-phpfmt",
+    "mehedidracula.php-namespace-resolver",
+    "mikestead.dotenv",
+    "shufo.vscode-blade-formatter",
+    "austenc.laravel-blade-spacer",
+    "pgl.laravel-jump-controller",
+    "codingyu.laravel-goto-view",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "naoray.laravel-goto-components",
+    "nhedger.inertia",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "rangav.vscode-thunder-client",
+    "sdras.vue-vscode-snippets",
+    "Vue.volar",
+    "hollowtree.vue-snippets",
+    "moalamri.inline-fold",
+    "vscode-icons-team.vscode-icons",
+    "alexcvzz.vscode-sqlite",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
