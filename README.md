@@ -14,6 +14,7 @@
 
 ## Available Extensions
 
+- **Auto Rename Tag**: Auto rename paired HTML/XML tag.
 - **Intelephense Client**: Supercharge your Laravel development with enhanced code intelligence.
 - **PHPfmt**: Automatically format your PHP code for consistency and readability.
 - **PHP Namespace Resolver**: Easily manage and resolve PHP namespaces within your Laravel project.
@@ -32,9 +33,11 @@
 - **Volar**: Enhance your Vue.js development experience.
 - **Vue Snippets**: Speed up Vue.js development with code snippets.
 - **Inline Fold**: Easily fold and manage code sections inline.
-- **VS Code Icons**: Personalize your VS Code with custom icons.
-- **SQLite**: Manage SQLite databases within Visual Studio Code.
+- **Material Icon Theme**: Material Design Icons for Visual Studio Code.
+- **SQLite3 Editor**: Edit SQLite3 files like you would in spreadsheet applications.
 - **Code Spell Checker**: Catch spelling mistakes as you code.
+- **Alpine.js Intellisense**: Simple IntelliSense & Snippets for Alpine.js framework.
+- **Alpine.js Syntax Highlight**: Javascript syntax highlighting for Alpine.js x- attributes
 
 ## Installation
 
