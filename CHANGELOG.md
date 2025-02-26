@@ -1,5 +1,19 @@
 # Changelog
 
+## Version 1.1.0
+
+- Added "Laravel" extension
+
+## Version 1.0.0
+
+- Added "Auto Rename Tag" extension
+- Added "Material Icon Theme" extension
+- Added "SQLite3 Editor" extension
+- Added "Alpine.js Intellisense" extension
+- Added "Alpine.js Syntax Highlight" extension
+- Removed "VS Code Icons" extension
+- Removed "SQLite" extension
+
 ## Version 0.0.1 (Initial Release)
 
 - Initial release of the Hatiar - Useful Laravel Extension Pack.
