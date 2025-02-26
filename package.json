@@ -3,7 +3,7 @@
   "displayName": "Hatiar - Useful Laravel Extension Pack",
   "description": "A handpicked collection of useful VS Code extension packs designed to simplify Laravel development, carefully crafted by @alnahian2003",
   "publisher": "alnahian2003",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -27,6 +27,7 @@
     "url": "https://github/alnahian2003"
   },
   "extensionPack": [
+    "laravel.vscode-laravel",
     "formulahendry.auto-rename-tag",
     "bmewburn.vscode-intelephense-client",
     "kokororin.vscode-phpfmt",
