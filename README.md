@@ -14,6 +14,7 @@
 
 ## Available Extensions
 
+- **Laravel**: Official Laravel VS Code Extension.
 - **Auto Rename Tag**: Auto rename paired HTML/XML tag.
 - **Intelephense Client**: Supercharge your Laravel development with enhanced code intelligence.
 - **PHPfmt**: Automatically format your PHP code for consistency and readability.
